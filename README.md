@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aksin099
 - 👀 I’m interested in Artifical İntelegence 
 - 🌱 I’m currently learning programming fundamentals and improving my knowledge in Artificial Intelligence.
-- 💞️ I’m looking to collaborate on programming fundamentals and improving my knowledge in Artificial Intelligence.
 - 📫 How to reach me:"You can reach out to me via email at ilyasbeyovamil@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a big fan of creating fun and unique AI experiments, and I even run a club called "UnecAI" for AI enthusiasts!
